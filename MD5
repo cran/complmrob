@@ -1,7 +1,7 @@
-39348d529ed434d9876aeab128c4f4fc *ChangeLog
-8f2ffaf59fdaeca2b7e3add538fe2d84 *DESCRIPTION
+1d7d4431929c3f25a5c2740fc50e9d6f *ChangeLog
+789f0fb1435c79dfbd87ba57ac8d2c56 *DESCRIPTION
 2d03aeb4f56a748a0849bbb8109d6e57 *NAMESPACE
-bda94431ccf22b6e5ca4cac7f9545633 *R/bootcoefs-methods.R
+ce9193701867263a5bec927ec05dc7ef *R/bootcoefs-methods.R
 1b1780e243801eeabbe82c1279541c9a *R/bootstrap-methods.R
 2cf48b45a3716c5ccf53d31177885dc0 *R/complmrob.R
 dce4f8528368194692d562bb6d15f3ad *R/confint-methods.R
